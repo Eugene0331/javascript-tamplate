@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: $font-main;
+  font-size: 16px;
+}
+
+body {
+  margin: 0;
+}
+
+.fa-chevron-left,
+.fa-chevron-right {
+  color: rgba(255, 255, 255, 0.4);
+
+  font-size: 40px;
+}
+
+.fa-play-circle,
+.fa-pause-circle {
+  color: rgba(255, 255, 255, 0.4);
+
+  font-size: 40vh;
+}
